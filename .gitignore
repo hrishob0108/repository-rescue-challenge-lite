@@ -1,0 +1,2 @@
+# Keep env files out of the repository, as they may contain sensitive information
+.env
